@@ -40,8 +40,7 @@ It provides interface to the Tcl GUI toolkit. MyMo takes the name of movie as in
 
 ### RESULTS AND CONCLUSION
 MyMo combines the results from both the approaches and creates a curated list of 10 movies. These  recommendations are a simple combination of content based and collaborative recommendations.
-![image](https://user-images.githubusercontent.com/95187849/210449718-f8c0c3a3-eeb6-4c47-bcab-ec1c8eb05383.png)
-
+![Movie System111](https://github.com/SnehalWalake29/Movie-Recommendation-System/assets/154491359/0e40b65a-db90-48f4-983c-4f4fbbef58b2)
 
 In future, along with the similarity index, clustering and classification techniques can be used to improve MyMo.
 This approach can also be extended to recommend videos, books, news etc.
